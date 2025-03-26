@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Banco de Dados ###
+mysql-data/
+
+### Configuração Local
+/src/main/resources/application-local.*
