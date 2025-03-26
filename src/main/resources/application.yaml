@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3307/gestao_estoque
+    username:
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  profiles:
+    active: local
